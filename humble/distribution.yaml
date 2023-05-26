@@ -2989,6 +2989,16 @@ repositories:
       url: https://github.com/OrebroUniversity/mod.git
       version: master
     status: developed
+  motoros2:
+    doc:
+      type: git
+      url: https://github.com/Yaskawa-Global/motoros2.git
+      version: 0.1.0
+  motoros2_interfaces:
+    doc:
+      type: git
+      url: https://github.com/Yaskawa-Global/motoros2_interfaces
+      version: main
   moveit:
     doc:
       type: git
